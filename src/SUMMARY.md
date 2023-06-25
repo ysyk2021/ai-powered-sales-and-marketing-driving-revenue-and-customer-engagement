@@ -2,7 +2,6 @@
 
 - [Introduction](README.md)
   - [Why AI is important for driving revenue and customer engagement in sales and marketing](chapter-1-1.md)
-  - [Overview of the book's content](chapter-1-2.md)
 - [Chapter 1: Understanding AI-Powered Sales and Marketing](chapter-2.md)
   - [Definition of AI-powered sales and marketing](chapter-2-1.md)
   - [Types of AI used for sales and marketing](chapter-2-2.md)
