@@ -1,5 +1,4 @@
-Chapter 6: Implementing AI for More Efficient Sales and Marketing Operations
-============================================================================
+
 
 Overview of AI Applications for Sales and Marketing Operations
 --------------------------------------------------------------
