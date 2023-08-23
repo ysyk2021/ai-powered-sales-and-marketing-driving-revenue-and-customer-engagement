@@ -1,5 +1,4 @@
 
-
 Overview of AI Applications for Sales and Marketing Operations
 --------------------------------------------------------------
 

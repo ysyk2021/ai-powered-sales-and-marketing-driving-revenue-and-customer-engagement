@@ -1,5 +1,4 @@
 
-
 In this chapter, we'll explore the steps businesses should take to prepare for AI implementation in sales and marketing, specifically evaluating data availability and quality.
 
 Assessing Data Availability

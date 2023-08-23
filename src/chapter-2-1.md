@@ -1,5 +1,4 @@
 
-
 In this chapter, we'll define what we mean by AI-powered sales and marketing and explain how it differs from traditional sales and marketing.
 
 Definition of AI-Powered Sales and Marketing

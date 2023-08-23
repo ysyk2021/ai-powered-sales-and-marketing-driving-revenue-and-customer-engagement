@@ -1,5 +1,4 @@
 
-
 In this chapter, we'll explore the basics of AI-powered sales and marketing, including its definition, types of AI used, and benefits for improving revenue growth and customer engagement.
 
 Definition of AI-Powered Sales and Marketing

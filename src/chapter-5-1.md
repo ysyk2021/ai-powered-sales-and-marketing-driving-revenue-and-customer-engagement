@@ -1,5 +1,4 @@
 
-
 In this chapter, we'll explore the importance of collecting and analyzing data with AI technology for sales and marketing.
 
 Importance of Data Collection

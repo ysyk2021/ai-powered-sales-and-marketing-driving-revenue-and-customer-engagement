@@ -1,5 +1,4 @@
 
-
 In this chapter, we'll provide an overview of the AI tools and technologies available for sales and marketing and discuss how to choose the right ones for your business.
 
 Natural Language Processing (NLP)
