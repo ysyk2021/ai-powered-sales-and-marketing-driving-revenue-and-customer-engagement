@@ -36,3 +36,4 @@
   - [Legal and regulatory considerations for AI implementation in sales and marketing](chapter-9-3.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)
+- [Our Other Books](other-books.md)
