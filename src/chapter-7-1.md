@@ -1,5 +1,4 @@
-Chapter: Overview of AI Applications for Sales and Marketing Operations
-=======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide an overview of the various AI applications that are revolutionizing sales and marketing operations. AI-powered solutions offer businesses a wide range of capabilities to optimize processes, improve decision-making, and enhance customer engagement in sales and marketing.
 

@@ -1,5 +1,4 @@
-Chapter: Definition of AI-Powered Sales and Marketing
-=====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will define AI-powered sales and marketing and explore the key concepts and principles behind it. AI-powered sales and marketing refers to the application of artificial intelligence (AI) technologies and techniques in driving revenue growth, enhancing customer engagement, and optimizing sales and marketing strategies.
 

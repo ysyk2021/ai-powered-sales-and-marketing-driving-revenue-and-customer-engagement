@@ -1,5 +1,4 @@
-Chapter: Developing Governance Frameworks to Ensure Responsible AI Use
-======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of developing governance frameworks to ensure responsible AI use in sales and marketing. Implementing AI-powered strategies requires establishing guidelines, policies, and practices that promote ethical, fair, and transparent use of AI technologies.
 

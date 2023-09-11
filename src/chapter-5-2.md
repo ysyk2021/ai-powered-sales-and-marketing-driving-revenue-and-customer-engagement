@@ -1,5 +1,4 @@
-Chapter: Best Practices for Data Collection and Preparation
-===========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the best practices for data collection and preparation in the context of AI-powered sales and marketing. Collecting and preparing high-quality data is crucial for obtaining accurate insights, making informed decisions, and maximizing the effectiveness of AI applications.
 

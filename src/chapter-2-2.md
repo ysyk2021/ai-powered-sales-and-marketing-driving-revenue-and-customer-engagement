@@ -1,5 +1,4 @@
-Chapter: Types of AI Used for Sales and Marketing
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the different types of AI used in sales and marketing. These AI technologies and techniques play a pivotal role in driving revenue growth, enhancing customer engagement, and optimizing sales and marketing strategies.
 

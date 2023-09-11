@@ -1,5 +1,4 @@
-Chapter: Assessing the Effectiveness of AI for Sales and Marketing
-==================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore methods and approaches for assessing the effectiveness of AI in sales and marketing. Evaluating the impact and outcomes of AI-powered strategies is crucial to understand its value, identify areas for improvement, and make informed decisions on resource allocation and future investments.
 
